@@ -15,4 +15,4 @@ Deep\ Learning/workspace-utils.py
 */data/flowers/
 */data/**/*.csv
 !*/data/disaster_*.csv
-images/test_images/
+test_images/
